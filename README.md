@@ -21,6 +21,6 @@ Projects built while learning react
 Projects built during bachelors.
 
 <ul>
-    <li><a href="https://github.com/dineshkidd/Sign-Language-Interpreter-SIH2020_IC464_Hack-o-holics" target="_blank">Sign Language Interpreter</a></li>
-    <li><a href="https://github.com/dineshkidd/Bird-Sound-Classification" target="_blank">Bird Sound Classification</a></li>
+    <li><a href="https://github.com/dineshkidd/Sign-Language-Interpreter-SIH2020_IC464_Hack-o-holics#sign-language-interpreter" target="_blank">Sign Language Interpreter</a></li>
+    <li><a href="https://github.com/dineshkidd/Bird-Sound-Classification/tree/main#bird-sound-classification" target="_blank">Bird Sound Classification</a></li>
 </ul>
