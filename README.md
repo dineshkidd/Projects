@@ -6,6 +6,7 @@ Projects built while learning react
 
 <img src="https://raw.githubusercontent.com/dineshkidd/Projects/main/photo-collage.png" height="150">
 
+
 <ul>
     <li><a href="https://react-tictactoe-dineshkidds-projects.vercel.app/" target="_blank">TicTacToe</a></li>
     <li><a href="https://react-investment-calculator-dineshkidds-projects.vercel.app/" target="_blank">Investment Calculator</a></li>
