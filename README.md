@@ -2,6 +2,8 @@
 
 ## React Projects
 
+<a href="https://dinesh.my" target="_blank">Portfolio</a>
+
 Projects built while learning react
 
 <img src="https://raw.githubusercontent.com/dineshkidd/Projects/main/photo-collage.png" height="150">
