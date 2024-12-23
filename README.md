@@ -2,12 +2,15 @@
 
 ## React Projects
 
-###<a href="https://dinesh.my" target="_blank">Portfolio</a>
+<ul>
+    <li><a href="https://dinesh.my" target="_blank">Portfolio</a></li>
+    <li><a href="https://github.com/dineshkidd/vibesnapp" target="_blank">Vibesnapp</a></li>
+    <li><a href="https://airradar.vercel.app/" target="_blank">AirRadar</a></li>
+
+</ul>
+
 
 Projects built while learning react
-
-<img src="https://raw.githubusercontent.com/dineshkidd/Projects/main/photo-collage.png" height="150">
-
 
 <ul>
     <li><a href="https://react-tictactoe-dineshkidds-projects.vercel.app/" target="_blank">TicTacToe</a></li>
