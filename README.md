@@ -1,8 +1,7 @@
 # Projects
 
-## React Projects
-
 <ul>
+    <li><a href="https://status24.vercel.app/org_2sQYYvCsVsfS7sYhzHnZ0xgC0VL" target="_blank">Status24</a></li>
     <li><a href="https://dinesh.my" target="_blank">Portfolio</a></li>
     <li><a href="https://github.com/dineshkidd/vibesnapp" target="_blank">Vibesnapp</a></li>
     <li><a href="https://airradar.vercel.app/" target="_blank">AirRadar</a></li>
